@@ -8,10 +8,14 @@ if you want to know the generated content you can  go to https://mailtrap.io/
 
 sign up for free
 
-Click on start sending
+Click on start Testing
+
+scroll down click the python and copy the code then replace them with the langGraph file of 6-11 lines.
+
+Save them and re run the files
 
 Go to the inboxes
 
-Again the run the files
+Again the reload the pages
 
-you could see the mail that is sent to the receiver.
+you could see the mail and the content that is sent to the receiver.
