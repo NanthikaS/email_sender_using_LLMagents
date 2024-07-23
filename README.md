@@ -12,7 +12,7 @@ Click on start Testing
 
 scroll down click the python and copy the code then replace them with the langGraph file of 6-11 lines.
 
-Save them and re run the files
+Save them and re run the files.
 
 Go to the inboxes
 
